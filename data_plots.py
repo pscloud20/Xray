@@ -369,8 +369,7 @@ plt.show()
 plt.plot(dfu['energy'], dfu['count(grey5_600s)'], 'black', label = 'Grey 5 600s run')
 plt.show()
 
-
 #%%
-plt.plot(dfu['energy'], dfu['count(brass)'], 'dimgrey', label = 'Grey 5 (E = 24.31 keV')
+#thanks alex :)
 
 
